@@ -27,6 +27,7 @@ To use this dataset, you can clone the repository or download the files directly
 To clone the repository, use the following command:
 ```bash
 git clone https://github.com/EricHuynh10/australia-postcodes.git
+```
 
 # Extra
 Included 'aus_suburb_postcode.csv" which contains suburb and respective postcode scraped from domain.com.au
